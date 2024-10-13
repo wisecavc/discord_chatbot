@@ -1,0 +1,19 @@
+{
+  "name": "discord_chatbot",
+  "version": "1.0.0",
+  "description": "\"Code for a Discord application (bot) that is powered by Ollama.\"",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wisecavc/discord_chatbot"
+  },
+  "author": "Cade Wisecaver",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
