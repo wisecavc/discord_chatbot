@@ -1,0 +1,5 @@
+{
+    "model": "model name from .env file will automatically show up here",
+    "messages": [],
+    "stream": false
+}
