@@ -32,6 +32,8 @@ This code is intended to demonstrate my ability to create an efficient pipeline 
 
 It is entirely free to use and open source, provided users follow the terms and conditions of both Discord and Ollama.
 
+I made this a template repo for other users to be able to use easily to create their own Discord bots using Ollama, but please cite the original repo (https://github.com/wisecavc/discord_chatbot) and the other associated citations in the Citations section if you intend to use this repository to upload your own code made with it.
+
 
 ## Requirements
 
