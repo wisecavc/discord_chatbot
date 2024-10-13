@@ -1,0 +1,19 @@
+FROM mistral
+
+PARAMETER temperature 1.1
+
+SYSTEM """
+Insert any prompt data or behavioral characteristics you want your chatbot to have here
+"""
+
+PARAMETER num_predict -2
+
+PARAMETER repeat_penalty 2
+
+PARAMETER top_k 30
+
+PARAMETER min_p 0.05
+
+PARAMETER tfs_z 2
+
+PARAMETER mirostat_tau 4.0
